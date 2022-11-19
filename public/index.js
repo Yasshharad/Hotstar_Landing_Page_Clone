@@ -3,31 +3,31 @@ let movies = [
     name: "falcon and the winter soldier",
     des:
       "Sam Wilson and Bucky Barnes realize that their futures are anything but normal.",
-    image: "images/slider 2.PNG"
+    image: "slider 2.PNG"
   },
   {
     name: "loki",
     des:
       "The mercurial villain Loki resumes his role as the God of Mischief. Premiering on 9th June 2021 exclusively on Disney+ Hotstar.",
-    image: "images/slider 1.PNG"
+    image: "slider 1.PNG"
   },
   {
     name: "wanda vision",
     des:
       "Wanda and Vision struggle to conceal their powers during dinner with Vision’s boss and his wife.",
-    image: "images/slider 3.PNG"
+    image: "slider 3.PNG"
   },
   {
     name: "raya and the last dragon",
     des:
       "Raya, a fallen princess, must track down the legendary last dragon to stop the evil forces that have returned and threaten her world.",
-    image: "images/slider 4.PNG"
+    image: "slider 4.PNG"
   },
   {
     name: "luca",
     des:
       "The movie is a coming-of-age story about one young boy experiencing an unforgettable summer filled with gelato, pasta and endless scooter rides",
-    image: "images/slider 5.PNG"
+    image: "slider 5.PNG"
   }
 ];
 
